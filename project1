@@ -1,0 +1,414 @@
+#netflixclone.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>netflix clone</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main">
+        <nav >
+        <span><img width="100"  src=".vscode/images/logo.svg " alt="logo"></span>
+          <button class="x1 x2">English</button>
+          <button  class="x x1">sign in</button>
+       </nav>
+     <div class="ok">
+    <span><h1><b> Unlimited movies, TV shows and more</b></h1></span>
+    <span>Watch anywhere. Cancel anytime.</span>
+    <span>Ready to watch? Enter your email or mobile number to create or restart your membership
+      </span>
+     <div> <input type="text" placeholder="email or mobile number">
+        <button  class="x x1"></class>get started > </button> 
+     </div> </div>
+     <div class="separation"></div>
+     <section class="first"> 
+     <div><h1><b> Watch on smart TVs,</b></h1> PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.</div>
+      <div class="secimg"> <img src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png">
+      <video src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/video-tv-in-0819.m4v"autoplay loop muted>
+      </video></div>
+     </section>
+     <div class="separation"></div>
+      <section class="first second"> 
+        
+         <div class="secimg"> <img src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/mobile-0819.jpg">
+         </div><div><span><h1><b>Download your shows to watch offline</b></h1></span>
+        <span>Save your favourites easily and always have something to watch.</span></div>
+        </section>
+        <div class="separation"></div>
+        <section class="first third"> 
+          <div><h1><b> Watch everywhere</b></h1> Stream unlimited movies and TV shows on your phone, tablet, laptop, and TV.</div>
+           <div class="secimg2"> <img src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/device-pile-in.png">
+           <video src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/video-devices-in.m4v"autoplay loop muted>
+           </video></div>
+          </section>
+          <div class="separation"></div>
+          <section class="first fourth"> 
+        
+            <div class="secimg"> <img src="https://occ-0-6246-2186.1.nflxso.net/dnm/api/v6/19OhWN2dO19C9txTON9tvTFtefw/AAAABVr8nYuAg0xDpXDv0VI9HUoH7r2aGp4TKRCsKNQrMwxzTtr-NlwOHeS8bCI2oeZddmu3nMYr3j9MjYhHyjBASb1FaOGYZNYvPBCL.png?r=54d">
+            </div><div><span><h1>Create profiles for kids<b></b></h1></span>
+           <span>Send children on adventures with their favourite characters in a space made just for them—free with your membership.</span></div>
+           </section>
+           <div class="separation"></div>
+           <div class = "faq">
+            <h1><b>Frequently Asked Questions</b></h1>
+           </div>
+           <pre>
+           <div class="faqbox">
+            <span>what is Netflix?</span>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#000000" fill="none">
+              <path d="M12 4V20" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+              <path d="M4 12H20" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+          </svg></div>
+          <div class="faqbox">
+          <span>How much does Netflix cost?</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#000000" fill="none">
+            <path d="M12 4V20" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M4 12H20" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        </svg></div>
+        <div class="faqbox">
+          <span>How much does Netflix cost?</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#000000" fill="none">
+            <path d="M12 4V20" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M4 12H20" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        </svg></div>
+        <div class="faqbox">
+          <span>How much does Netflix cost?</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#000000" fill="none">
+            <path d="M12 4V20" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M4 12H20" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        </svg></div>
+        <div class="faqbox">
+          <span>How much does Netflix cost?</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#000000" fill="none">
+            <path d="M12 4V20" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M4 12H20" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        </svg></div>
+        <div class="faqbox">
+          <span>How much does Netflix cost?</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#000000" fill="none">
+            <path d="M12 4V20" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M4 12H20" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        </svg></pre>
+        <div class="faq">
+      <span>Ready to watch? Enter your email or mobile number to create or restart your membership.</span>
+       <div><input type="text" placeholder="Email or mobile number">
+       <button class="x x1">Get Started</button>
+      </div></div>
+      <div class="separation"></div>
+      
+        <footer>
+          <span>Questions? Call 000-800-919-1694</span>
+          <div class="r">
+          <div class=" footeritem">
+            
+            <a href="faq">FAQ</a>
+            <a href="faq">Investor Relations</a>
+            <a href="faq">Privacy</a>
+            <a href="faq">Speed Test</a>
+         </div>
+         <div class="footeritem">
+          <a href="faq">Help Centre</a>
+          <a href="faq">Jobs</a>
+          <a href="faq">Cookie Presfrences</a>
+          <a href="faq">Legal Notices</a>
+       </div>
+       <div class="footeritem">
+        <a href="faq">Account</a>
+        <a href="faq">Ways to Watch</a>
+        <a href="faq">Corporate Information</a>
+        <a href="faq">Only Netflix</a>
+     </div>
+     <div class="footeritem">
+      <a href="faq">Media Centre</a>
+      <a href="faq">Terms of Use</a>
+      <a href="faq">Contact us</a>
+      
+     </div></div>
+  <div>
+    <button class="m f">English ></button></div>
+<div class="f">
+   <span>Netflix India</span></pre></div>
+     
+  </footer>
+      
+</div>
+
+      
+      
+      
+
+           </div>
+        </div>
+        
+    
+  
+</body>
+</html>
+
+
+#style.css
+
+*{
+    padding: 0;
+    margin:0;
+}
+
+
+body{
+    background-color: black;
+}
+
+.main{
+    background-image: url("background\ image.jpg");
+    height: 664px;
+    position: relative;
+    width: 100%;
+    opacity: 0.74;
+    background-color: black;
+    background-position: center center;
+    background-size: max(1200px,100vw);
+    background-repeat: no-repeat;}
+
+nav{
+    max-width: 60vw;
+    justify-content: space-between;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    height: 100px;
+    font-size: 12px;
+    flex-wrap: wrap;
+    
+}
+nav img{
+        color: red;
+        position: relative;
+        z-index: 10;
+        width: 114px;
+        
+}
+
+nav button{
+     position: relative;
+    z-index: 10;
+
+
+}
+
+
+.ok{
+    height: 85.8%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    position: relative;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    gap:23px;
+    padding: 0 32px;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.x{
+    padding: 3px 24px;
+    background-color: red;
+    position: relative;
+    border: 1px solid white;
+    border-radius: 0.25rem;
+    font-weight: bold;
+    cursor:pointer;
+    gap:16px;
+    
+    
+    
+}
+.separation{
+    background-color: rgb(71, 69, 69);
+    height: 7px;
+    position: relative;
+    z-index: 20;
+}
+.x1{
+    padding: 3px 8px;
+    color:white;
+    border-color: grey;
+}
+.x2{
+    background-color: transparent;
+    
+}
+.main input{
+    padding:0 32px;
+     color: white;
+     background-color: transparent;
+     border-radius: 4px;
+     font-size: 20px;
+}
+.ok:nth-child(1){
+    font-size: 500;
+    font-weight: bolder;
+}
+.ok:nth-child(2){
+    font-size: 400;
+    font-weight: 500; 
+}
+.ok:nth-child(3){
+    font-size: 300;
+    font-weight: 500;
+}
+.first{
+    display: flex;
+    justify-content: center;
+    max-width: 70vw;
+    margin: auto;
+    color: white;
+    align-items: center;
+    flex-wrap: wrap;
+    padding:34px 0;
+}
+
+.secimg{
+    position: relative;
+}
+.secimg img{
+    width: 30vw;
+    position: relative;
+    z-index: 10;
+}
+.secimg video{
+    position: absolute;
+    object-fit: contain;
+    width:23vw;
+    top:4vw;
+    right:3vw;
+}
+.secimg2{
+    position: relative;
+}
+.secimg2 img{
+    width: 30vw;
+    position: relative;
+    z-index: 10;
+}
+.secimg2 video{
+    position: absolute;
+    object-fit: contain;
+    width:18vw;
+    top:2vw;
+    right:6vw
+}
+.faq{
+    color: white;
+    text-align: center;
+    padding:34px;
+    
+}
+.faqbox:hover{
+    background-color: rgb(37, 36, 36);
+    color: white;
+}
+.faqbox svg{
+    filter:invert(1) 
+}
+.faqbox{
+    transition: ;
+    display:flex;
+    background-color: gray;
+    color: white;
+    width:70vw;
+    padding: 24px;
+    margin: auto;
+    justify-content: space-between;
+    cursor: pointer;
+    
+}
+
+footer span{
+    margin: 100px;
+    max-width: 60vw;
+    color: white;
+    
+}
+.r{
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    text-decoration-color: white;
+    
+}
+footer a{
+    color: white;
+    margin:2px;
+    padding:4px;
+    text-align: left;
+    position: relative;
+    
+}
+
+.footeritem{
+    color: white;
+    display: flex;
+    flex-direction: column;
+
+    
+}
+.f{
+    margin: 3px;
+    padding:2px;
+    position: relative;
+    
+    
+    
+
+}
+.m{
+    position: relative;
+    
+    border-radius: 0.25rem;
+    font-weight: bold;
+    background-color: transparent;
+    color: white;
+    border-color: grey;
+    margin: 2px;
+    padding: 2px;
+}
+@media only screen and (max-widt:1300px){
+    nav {
+        max-width:90vw;
+    }
+    .first{
+        flex-wrap: wrap;
+    }
+    .separation{
+        position: relative;
+        top:34px;
+    }
+    .secimg img{
+        width:350px;
+    }
+    .secimg video{
+        width: 305px;
+    }
+    .x{
+        align-items: center;
+        justify-content: center;
+        gap:16px;
+    }
+    footer{
+        max-width: 90vw;
+        padding:75px 0;
+    }
+    .footeritem{
+        align-items: center;
+    }
+}
+        
+        
+
+
+}
+
